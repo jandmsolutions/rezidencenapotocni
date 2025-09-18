@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 3465 1012" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Artboard1" transform="matrix(0.892145,0,0,0.51385,-20.1681,-274.195)">
+        <g transform="matrix(1.55195,0,0,2.69448,-1059.3,-2224.65)">
+            <g>
+                <g transform="matrix(1,0,0,1,684.175,1556.02)">
+                    <text x="0px" y="0px" style="font-family:'SKODANext-Black', 'SKODA Next', sans-serif;font-weight:900;font-size:400px;fill:rgb(208,208,208);">NA PO</text>
+                </g>
+                <g transform="matrix(1,0,0,1,1927.78,1556.02)">
+                    <text x="0px" y="0px" style="font-family:'SKODANext-Black', 'SKODA Next', sans-serif;font-weight:900;font-size:400px;fill:rgb(208,208,208);">T<tspan x="238.79px " y="0px ">O</tspan>ČNÍ</text>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1.12089,0,0,1.94609,695.738,-1517.82)">
+            <g>
+                <g transform="matrix(1,0,0,1,1168.96,2052.12)">
+                    <text x="0px" y="0px" style="font-family:'SKODANext-Light', 'SKODA Next', sans-serif;font-weight:300;font-size:300px;fill:rgb(208,208,208);">OS</text>
+                </g>
+                <g transform="matrix(1,0,0,1,1585.06,2052.12)">
+                    <text x="0px" y="0px" style="font-family:'SKODANext-Light', 'SKODA Next', sans-serif;font-weight:300;font-size:300px;fill:rgb(208,208,208);">TRA</text>
+                </g>
+                <g transform="matrix(1,0,0,1,2133.16,2052.12)">
+                    <text x="0px" y="0px" style="font-family:'SKODANext-Light', 'SKODA Next', sans-serif;font-weight:300;font-size:300px;fill:rgb(208,208,208);">V<tspan x="169.2px " y="0px ">A</tspan></text>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1.55195,0,0,2.69448,267.861,1123.55)">
+            <text x="0px" y="0px" style="font-family:'SKODANext-Light', 'SKODA Next', sans-serif;font-weight:300;font-size:300px;fill:rgb(208,208,208);">RESIDENCE</text>
+        </g>
+    </g>
+</svg>
